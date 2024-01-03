@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.e2bdac6c.css",
+    "main.js": "/My-Portfolio/static/js/main.d75c829f.js",
+    "static/media/newsClub.png": "/My-Portfolio/static/media/newsClub.454b424905e0e50e8fc6.png",
+    "static/media/portfolioImage.png": "/My-Portfolio/static/media/portfolioImage.eafa8a835d5ee0cbf8ba.png",
+    "static/media/cloudJot.png": "/My-Portfolio/static/media/cloudJot.fafd715de2f81368de12.png",
+    "static/media/vocalize.png": "/My-Portfolio/static/media/vocalize.c7bcc8a1d1c3a1e3e936.png",
+    "static/media/tailwind.png": "/My-Portfolio/static/media/tailwind.3549d9e451d7abb96934.png",
+    "static/media/image.jpeg": "/My-Portfolio/static/media/image.eb2e07f445373cba0e89.jpeg",
+    "static/media/react.png": "/My-Portfolio/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/c.png": "/My-Portfolio/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/c++.png": "/My-Portfolio/static/media/c++.1240ce157b70fb399c6c.png",
+    "static/media/instaContact.png": "/My-Portfolio/static/media/instaContact.e80dd0bf91b7be13ec82.png",
+    "static/media/twitter.png": "/My-Portfolio/static/media/twitter.e58e4997ef85cbd7054c.png",
+    "static/media/portfolio_image.png": "/My-Portfolio/static/media/portfolio_image.af1e27f9aeb3ee1e7d77.png",
+    "static/media/Minecraft.ttf": "/My-Portfolio/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
+    "static/media/css.png": "/My-Portfolio/static/media/css.286a9900f844f7c0ed5f.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.e2bdac6c.css.map": "/My-Portfolio/static/css/main.e2bdac6c.css.map",
+    "main.d75c829f.js.map": "/My-Portfolio/static/js/main.d75c829f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2bdac6c.css",
+    "static/js/main.d75c829f.js"
+  ]
+}
