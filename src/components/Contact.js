@@ -53,6 +53,9 @@ export const Contact = () => {
         <div className="hidden lg:block text-right pr-6 text-white mb-2">
         &copy; ParthSaini
         </div>
+        <a className="p-8" href="https://visitcount.itsvg.in">
+          <img src="https://visitcount.itsvg.in/api?id=Parth&label=Website%20Views&color=1&icon=5&pretty=false" alt="Loading Img"/>
+        </a>      
       </div>
     </div>
   );
