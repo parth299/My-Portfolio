@@ -20,7 +20,7 @@ function App() {
   return (
     <>
       
-      <div className={`flex items-center justify-center text-7xl bg-black font-pixel text-white font-bold h-screen w-screen transition-all opacity-100 duration-700 ${isLoading ? "" :  "h-0"}`}>
+      <div className={`flex items-center justify-center text-7xl bg-black font-pixel text-white font-bold transition-all opacity-100 duration-700 ${isLoading ? "h-screen w-screen" :  "h-0"}`}>
         {isLoading && (<Typewriter 
           words={["Loading...", "Coding..."]}
         />)}
