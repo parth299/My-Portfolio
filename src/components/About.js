@@ -3,7 +3,7 @@ import portfolioImage from './portfolioImage.png'
 
 export const About = () => {
   return (
-    <div className='w-screen z-10 flex items-center justify-center bg-white' id='about'>
+    <div className='w-screen z-10 flex items-center justify-center' id='about'>
         <div className="About w-11/12 h-[90%] lg:h-[85%] shadow-2xl rounded-xl bg-[#dcdce4] lg:bg-[#dcdce4] my-16">
           <h1 className='text-black font-pixel md:text-8xl md:pb-5 text-center lg:text-8xl text-6xl p-5 lg:mt-8 md:mt-6 md:p-1'>ABOUT <span className='text-blue-700'>ME</span></h1>
           <div className="imageOnMobile lg:hidden flex items-center justify-center">
@@ -22,11 +22,13 @@ export const About = () => {
           </div>
 
 
-          <div className="bottomCV hidden lg:block font-pixel">
-            <h1 className='text-left pl-16 text-3xl font-black underline'>KNOW MORE ABOUT ME</h1>
+          <div className="bottomCV font-pixel">
+            <h1 className='text-left pl-5 text-xl lg:pl-16 lg:text-3xl font-black underline'>KNOW MORE ABOUT ME</h1>
 
-            <div className='text-left text-2xl text-white md:py-5 p-8 pl-16'>
+            <div className='lg:text-left text-center lg:text-2xl text-white md:py-5 p-8 lg:pl-16 my-2 mb-5'>
+              <a href='https://drive.google.com/file/d/1inZS-ePUjxHjc4ykidBNEE7w-qWY2yAm/view?usp=sharing'>
               <button className='rounded-2xl bg-blue-600 md:py-1 px-3 py-2 inline-block'>Download CV</button>
+              </a>
             </div>
             
           </div>

@@ -8,7 +8,7 @@ import cssImage from "./css.png";
 
 export const Skills = () => {
   return (
-    <div className="z-50 w-screen h-screen overflow-hidden flex justify-center items-center bg-no-repeat bg-cover bg-center bg-black lg:bg-[#000000]" id="skills">
+    <div className="z-50 w-screen h-screen overflow-hidden flex justify-center items-center bg-no-repeat bg-cover bg-center bg-black lg:bg-transparent" id="skills">
       <div className="skills lg:bg-white/25 bg-white/20 backdrop-blur-md w-10/12 lg:w-11/12 h-4/5 lg:backdrop-blur-2xl rounded-lg flex items-center justify-center">
         
         <div className="aboutSkills w-full flex justify-evenly">

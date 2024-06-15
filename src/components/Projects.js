@@ -7,8 +7,8 @@ import rightIcon from './rightProject.png'
 
 export const Projects = () => {
   return (
-    <div className="w-screen h-screen bg-white flex items-center justify-center" id="projects">
-      <div className="main w-[90%] shadow-2xl rounded-xl h-[80%]">
+    <div className="w-screen h-screen bg-transparent flex items-center justify-center" id="projects">
+      <div className="main w-[90%] bg-white shadow-2xl rounded-xl h-[80%]">
         <div className="heading text-5xl text-center p-4 font-pixel font-black lg:text-7xl lg:my-5">
           PROJECTS
         </div>

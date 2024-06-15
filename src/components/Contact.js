@@ -4,8 +4,8 @@ import insta from './instaContact.png'
 
 export const Contact = () => {
   return (
-    <div className="w-screen h-screen border-2 border-black bg-[#000000] flex items-center justify-center lg:bg-transparent" id="contact">
-      <div className="contactMe h-[75%] w-4/5 bg-white/15 backdrop-blur-md rounded-xl">
+    <div className="w-screen h-screen bg-[#000000] flex items-center justify-center lg:bg-transparent" id="contact">
+      <div className="contactMe h-[85%] w-4/5 bg-white/15 backdrop-blur-md rounded-xl p-5">
         <div className="getTouch font-pixel text-6xl md:text-8xl text-white px-5 py-2">
           <h1>
             GET IN <span className="hidden md:inline">TOUCH</span>
@@ -53,6 +53,9 @@ export const Contact = () => {
         <div className="hidden lg:block text-right pr-6 text-white mb-2">
         &copy; ParthSaini
         </div>
+        <a className="p-8" href="https://visitcount.itsvg.in">
+          <img src="https://visitcount.itsvg.in/api?id=Parth&label=Website%20Views&color=1&icon=5&pretty=false" alt="Loading Img"/>
+        </a>      
       </div>
     </div>
   );
